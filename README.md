@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hinata1902
+- 👋 Hi, I’m @Palak Srivastava
 - 👀 I’m interested in web dev and java dev
 - 🌱 I’m currently learning various fields
 - 💞️ I’m looking to collaborate on web dev and java dev
